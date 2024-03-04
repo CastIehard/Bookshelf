@@ -1,21 +1,27 @@
-# Title
+# Title here
 
 ## Author
 
-## Publication Date
 
-## Read Date
+## Publication Date
+YYYY-MM-DD
+
+## Finish Date
+YYYY-MM-DD
 
 ## Genre
 
-## Summery
+
+## Summary
+
+## Keywords
 
 ## Key Takeaways
-- 
+1.
 
 ## Ranking 1-10
 - Easy to Hard: 
-- Learning:
+- Learning: 
 - Would recommend: 
 
 ## Where
