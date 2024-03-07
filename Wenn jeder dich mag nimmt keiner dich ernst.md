@@ -1,16 +1,21 @@
 # Wenn jeder dich mag nimmt keiner dich ernst
 
+
 ## Author
 Martin Wehle
+
 
 ## Publication Date
 2023-04-01
 
+
 ## Finish Date
 2023-12-01
 
+
 ## Genre
 Communication
+
 
 ## Summary
 How to gain respect
@@ -18,8 +23,10 @@ How to be good in arguments, for example at work
 How to get people to do what you want
 Lots of real life examples
 
+
 ## Keywords
 Respect, Communication, Argumentation, Manipulation
+
 
 ## Key Takeaways
 1. Emotional intelligence is to regonise an emotion and notice it, but not become it.
@@ -49,6 +56,7 @@ Respect, Communication, Argumentation, Manipulation
 - Easy to Hard: 4
 - Learning: 7
 - Would recommend: 8 
+
 
 ## Where
 Real Book
