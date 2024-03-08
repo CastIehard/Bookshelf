@@ -4,10 +4,10 @@
 Dale Carnegie
 
 #### Publication Date
-2010-05-01
+1936
 
 #### Finish Date
-2022-06-01
+2022
 
 ## Genre
 Communication

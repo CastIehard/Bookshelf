@@ -4,10 +4,10 @@
 Martin Wehrle
 
 ## Publication Date
-2023-04-01
+2023
 
 ## Finish Date
-2023-12-01
+2023
 
 ## Genre
 Communication

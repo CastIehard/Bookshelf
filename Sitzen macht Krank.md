@@ -4,10 +4,10 @@
 Gerd Schnack
 
 ## Publication Date
-2019-01-01
+2019
 
 ## Finish Date
-2024-03-07
+2024
 
 ## Genre
 Health

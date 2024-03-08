@@ -1,10 +1,10 @@
-# Title here
+# Think and grow rich
 
 ## Author
-
+Napoleon Hill
 
 ## Publication Date
-YYYY-MM-DD
+1937
 
 ## Finish Date
 YYYY-MM-DD
