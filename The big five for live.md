@@ -24,8 +24,11 @@ Stell dir vor am Ende deines Lebens wird ein Museum eröffnet das du vor dem Tot
 2. Das Leben ist eine Reise, manche Menschen reisen mit dir anderen kommen nur für Teilstrecken vorbei.
 3. Die Arbeit sollte mit dem ZTE übereinstimmen, da man sonst den ZTE nicht erreichen kann > Eigene Firma gründen und den eigenen ZTE zu dem der Firma machen.
 4. Wenn wir die gleichen Worte immer wieder wiederholen, glaubt unser Verstand irgendwann, dass sie wahr sind.
+5. Wenn Manager ihren Mitarbeitern nicht helfen ihre Big 5 oder ZTE zu erreichen, was machen sie dann? Sie nehmen das Leben der Mitarbeiter gegen Geld.
+6. Guter Führungsstil ist wie eine Papayaplantage. Man nimmt die Samen und pfanzt sie in hochwertige Erde. Man benutzt keine minderwertige Erde, da die Samen dann nicht gedeien. Man trampelt nicht auf den Samen herum, giesst sie nicht mit Salzwasser und schneidet sie nicht ab. Schließlich erhält man eine Plantage mit gesunden Bäumen und vielen Früchten. Der erfolg kommt von dem Potential der Samen und der guten Pflege gemeinsam.
+7. Die Sekretärin die die Anrufe annimt ist die "Direktorin des ersten Eindrucks" und hat somit eine wichtige Rolle im Unternehmen, da alle möglichen Kunden zuerst mit ihr sprechen.
+8. Essensgutscheine damit Mitarbeiter unsere Geschäftspartner in Restaurants einladen können.
 
-seite 52
 
 
 ## Ranking 1-10
