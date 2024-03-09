@@ -13,19 +13,20 @@ John Strelecky
 Life
 
 ## Summary
-,
+A book about the meaning of life and how you spent your hours.
 
 ## Keywords
 
 ## Key Takeaways
-1. Tue immer was du willst und was deiner Bestimmung entspricht.
-2. ZTE (Zweck der Existenz) finden und nur Sachen machen die einen da hin führen. 
-3. Man kann sehr viel Energie und Zeit aufwenden für Sachen die nichts mit dem ZTE zu tun haben. Dann hat man aber keine Energie und Zeit mehr dafür übrig.
-4. Wenn man jeden Tag 20 min etwas macht, dass unnötig ist, sind das nach Studium bis Rente 1 Jahr verloren
-5. Wir gehen arbeiten um uns Dinge leisten zu können die wir gar nicht brauchen
-6. Teufelskreis des Konsums: Mehr kaufen> mehr Rechnungen > mehr Arbeiten > mehr unerfüllt > mehr suchen nach Erfüllung in Gegenständen > mehr Kaufen
-7. Unsere Aufgabe ist es etwas zu finden das uns erfüllt, weil wir es selbst eben so empfinden und nicht weil jemand es zu uns sagt oder wir es aus Werbung etc. suggeriert bekommen
-8. Menschen haben Angst vor dem Tot, weil sie wissen, dass sie ab da keine Zeit mehr haben die Sachen zu machen die sie immer machen wollten.
+1. always do what you want and what suits your purpose.
+2. find ZTE (purpose of existence) and only do things that lead you there. 
+3. you can spend a lot of energy and time on things that have nothing to do with your ZTE. But then you have no energy and time left for it.
+4. if you spend 20 minutes a day doing something that is unnecessary, that's 1 year lost after graduation until retirement
+5. we go to work to be able to afford things we don't need
+6. vicious circle of consumption: buy more > more bills > more work > more unfulfilled > more search for fulfilment in objects > more buying
+7. our task is to find something that fulfils us because we feel it ourselves and not because someone says it to us or we get it suggested to us from advertising etc.
+8. people are afraid of death because they know that from then on they will no longer have time to do the things they always wanted to do.
+9. every now and then you should just take time to edit and think about your ZTE.
 
 ## Ranking 1-10
 - Easy to Hard: 5 
