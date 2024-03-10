@@ -28,8 +28,9 @@ Stell dir vor am Ende deines Lebens wird ein Museum eröffnet das du vor dem Tot
 6. Guter Führungsstil ist wie eine Papayaplantage. Man nimmt die Samen und pfanzt sie in hochwertige Erde. Man benutzt keine minderwertige Erde, da die Samen dann nicht gedeien. Man trampelt nicht auf den Samen herum, giesst sie nicht mit Salzwasser und schneidet sie nicht ab. Schließlich erhält man eine Plantage mit gesunden Bäumen und vielen Früchten. Der erfolg kommt von dem Potential der Samen und der guten Pflege gemeinsam.
 7. Die Sekretärin die die Anrufe annimt ist die "Direktorin des ersten Eindrucks" und hat somit eine wichtige Rolle im Unternehmen, da alle möglichen Kunden zuerst mit ihr sprechen.
 8. Essensgutscheine damit Mitarbeiter unsere Geschäftspartner in Restaurants einladen können.
-
-
+9. Jeder Mitarbeiter darf während der Abreitszeit lesen wenn er Zeit hat. Bücher jeder Art, die ihn persönlich oder sein Projekt voranbringen.
+10. Kosten + Aufwand < Output zB. bei Büchern. 20€ pro Jahr für die Bücher aber die Mitarbeiter arbeiten durch den Inhalt effektiver, haben bessere Ideen, treffen bessere Entscheidungen etc. also ist der Output größer.
+11. 95% haben in ihren Big 5 eine Weltreise. Warum nicht ein Reisebüro in der Firma einrichten und zB. gute Leistungen mit Gutscheinen dafür belohnen?
 
 ## Ranking 1-10
 - Easy to Hard: 3 
