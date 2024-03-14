@@ -31,8 +31,8 @@ father was born, and it will still be shining when your last grandson passes int
 8. Luck waits for the one who is courages enough to take it.
 9. When a hungry dog is fed. He forgets he was hungry before and walk around like a king. Forgetting tomorrow will come.
 10. If you want to help a friend. To it, but don't take the burden on yourself.
-11.
-
+11. Don't let yourself be fooled by people who found a way to make easy money.
+12. Like a city cannot withstand in war without walls. We cannot live without a good protection. 
 
 ## Ranking 1-10
 - Easy to Hard: 2
