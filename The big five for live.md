@@ -19,18 +19,18 @@ John meets Thomas a top manager and they talk about life, the meaning of existen
 Management, Business, Happyness, Big Five
 
 ## Key Takeaways
-1. "Ist heute ein guter Museumstag?"
-Stell dir vor am Ende deines Lebens wird ein Museum eröffnet das du vor dem Tot betreten kannst. Wenn du 80% der Zeit in einem Job verbringst den du hasst, dann werden auch 80% der Bilder von diesem Job sein. Wenn du nur 2% mit deinen Liebsten verbringst, dann sind auch nur 2% der Bilder von ihnen. Gestalte dein Leben so. dass du am Ende Glücklich durch dein Museum läufst. 
-2. Das Leben ist eine Reise, manche Menschen reisen mit dir anderen kommen nur für Teilstrecken vorbei.
-3. Die Arbeit sollte mit dem ZTE übereinstimmen, da man sonst den ZTE nicht erreichen kann > Eigene Firma gründen und den eigenen ZTE zu dem der Firma machen.
-4. Wenn wir die gleichen Worte immer wieder wiederholen, glaubt unser Verstand irgendwann, dass sie wahr sind.
-5. Wenn Manager ihren Mitarbeitern nicht helfen ihre Big 5 oder ZTE zu erreichen, was machen sie dann? Sie nehmen das Leben der Mitarbeiter gegen Geld.
-6. Guter Führungsstil ist wie eine Papayaplantage. Man nimmt die Samen und pfanzt sie in hochwertige Erde. Man benutzt keine minderwertige Erde, da die Samen dann nicht gedeien. Man trampelt nicht auf den Samen herum, giesst sie nicht mit Salzwasser und schneidet sie nicht ab. Schließlich erhält man eine Plantage mit gesunden Bäumen und vielen Früchten. Der erfolg kommt von dem Potential der Samen und der guten Pflege gemeinsam.
-7. Die Sekretärin die die Anrufe annimt ist die "Direktorin des ersten Eindrucks" und hat somit eine wichtige Rolle im Unternehmen, da alle möglichen Kunden zuerst mit ihr sprechen.
-8. Essensgutscheine damit Mitarbeiter unsere Geschäftspartner in Restaurants einladen können.
-9. Jeder Mitarbeiter darf während der Abreitszeit lesen wenn er Zeit hat. Bücher jeder Art, die ihn persönlich oder sein Projekt voranbringen.
-10. Kosten + Aufwand < Output zB. bei Büchern. 20€ pro Jahr für die Bücher aber die Mitarbeiter arbeiten durch den Inhalt effektiver, haben bessere Ideen, treffen bessere Entscheidungen etc. also ist der Output größer.
-11. 95% haben in ihren Big 5 eine Weltreise. Warum nicht ein Reisebüro in der Firma einrichten und zB. gute Leistungen mit Gutscheinen dafür belohnen?
+1. "Is today a good museum day?"
+Imagine a museum opens at the end of your life that you can enter before you die. If you spend 80% of your time in a job you hate, then 80% of your pictures will be of that job. If you only spend 2% with your loved ones, then only 2% of the pictures will be of them. Organise your life so that you end up walking happily through your museum. 
+2. life is a journey, some people travel with you others only come along for parts of it.
+3. the work should be in line with the ZTE, otherwise you can't reach the ZTE > Start your own company and make your own ZTE that of the company.
+4. if we repeat the same words over and over again, our minds eventually believe them to be true.
+5. if managers don't help their employees achieve their Big 5 or ZTE, what are they doing? They are taking the lives of employees in exchange for money.
+6. good leadership is like a papaya plantation. You take the seeds and plant them in high quality soil. You don't use inferior soil because the seeds won't grow. You don't trample on the seeds, you don't water them with salt water and you don't cut them. The result is a plantation with healthy trees and lots of fruit. The success comes from the potential of the seeds and good care together.
+7. the secretary who answers the phone is the "director of first impressions" and therefore has an important role in the company, as all potential customers speak to her first.
+8. meal vouchers so that employees can invite our business partners to restaurants.
+9. every employee is allowed to read during their working hours if they have time. Books of any kind that help him personally or his project.
+10. costs + effort < output e.g. for books. 20€ per year for the books but the employees work more effectively due to the content, have better ideas, make better decisions etc. so the output is greater.
+11. 95% have a world trip in their Big 5. Why not set up a travel agency in the company and reward good performance with vouchers, for example?
 
 ## Ranking 1-10
 - Easy to Hard: 3 
