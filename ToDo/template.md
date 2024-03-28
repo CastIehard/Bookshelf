@@ -4,10 +4,10 @@
 
 
 ## Publication Date
-YYYY-MM-DD
+YYYY
 
 ## Finish Date
-YYYY-MM-DD
+YYYY
 
 ## Genre
 
