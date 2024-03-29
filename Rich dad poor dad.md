@@ -52,7 +52,7 @@ Rich, Poor, Money, Investing, Finance, Money Management
 31. Wenn ich nach neuen Anlageideen suche, gehe ich in den Buchladen und suche nach neuen Ausgefallenen Ideen.
 32. Finde einen Menschen der schonmal gemacht hat was man selbst vorhat und lerne von ihm.
 33. Mache einfach Angebote. Es kann sein, dass jemand ja sagt.
-34. Man macht den Profit beim Kauf, nicht bei Verkauf. Der Profit entsteht wenn ich eine Immobilir die 100k wert ist für 80k kaufe.
+34. Man macht den Profit beim Kauf, nicht bei Verkauf. Der Profit entsteht wenn ich eine Immobilir die 100k wert ist für 80k kaufe
 
 ## Ranking 1-10
 - Easy to Hard: 8
