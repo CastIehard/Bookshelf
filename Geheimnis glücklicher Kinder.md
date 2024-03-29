@@ -2,7 +2,6 @@
 
 ## Steve Biddulph
 
-
 ## Publication Date
 1998
 
