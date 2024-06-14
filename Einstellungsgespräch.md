@@ -52,3 +52,4 @@ Bewerbungsgespräch, Verhandlung, Kommunikationsstrategien
 2. „Wann kann ich mit einer Antwort rechnen?“
 3. „Wie sieht die Einarbeitung aus?“
 4. „Besteht die Möglichkeit, vollständig remote zu arbeiten oder bei Bedarf ins Büro zu kommen?“
+5. „Wird bei euch programmiert oder ist es eher konzeptionell mit Azure etc?“
