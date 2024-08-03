@@ -45,6 +45,3 @@ Communication, Manipulation, Influence, friends
 - Easy to Hard: 8
 - Learning: 10
 - Would recommend: 10 
-
-## Where
-Real Book

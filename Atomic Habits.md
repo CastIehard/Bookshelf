@@ -64,6 +64,3 @@ Habits, Behavior, Environment, Goals, Motivation, Willpower, Identity
 - Easy to Hard: 7
 - Learning: 9
 - Would recommend: 9 
-
-## Where
-PDF File on Drive

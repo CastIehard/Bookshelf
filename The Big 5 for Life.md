@@ -1,7 +1,7 @@
-# The big five for life 
+# The Big Five for Life
 
 ## Author
-John Strelecky 
+John Strelecky
 
 ## Publication Date
 2007
@@ -10,42 +10,37 @@ John Strelecky
 2023
 
 ## Genre
-Live
+Life
 
 ## Summary
-John meets Thomas a top manager and they talk about life, the meaning of existence and how to manage a big company with happy people.
+John meets Thomas, a top manager, and they discuss life, the meaning of existence, and how to manage a large company with happy employees.
 
 ## Keywords
-Management, Business, Happyness, Big Five
+Management, Business, Happiness, Big Five
 
 ## Key Takeaways
-1. "Ist heute ein guter Museumstag?"
-Stell dir vor am Ende deines Lebens wird ein Museum eröffnet das du vor dem Tot betreten kannst. Wenn du 80% der Zeit in einem Job verbringst den du hasst, dann werden auch 80% der Bilder von diesem Job sein. Wenn du nur 2% mit deinen Liebsten verbringst, dann sind auch nur 2% der Bilder von ihnen. Gestalte dein Leben so. dass du am Ende Glücklich durch dein Museum läufst. 
-2. Das Leben ist eine Reise, manche Menschen reisen mit dir anderen kommen nur für Teilstrecken vorbei.
-3. Die Arbeit sollte mit dem ZTE übereinstimmen, da man sonst den ZTE nicht erreichen kann > Eigene Firma gründen und den eigenen ZTE zu dem der Firma machen.
-4. Wenn wir die gleichen Worte immer wieder wiederholen, glaubt unser Verstand irgendwann, dass sie wahr sind.
-5. Wenn Manager ihren Mitarbeitern nicht helfen ihre Big 5 oder ZTE zu erreichen, was machen sie dann? Sie nehmen das Leben der Mitarbeiter gegen Geld.
-6. Guter Führungsstil ist wie eine Papayaplantage. Man nimmt die Samen und pfanzt sie in hochwertige Erde. Man benutzt keine minderwertige Erde, da die Samen dann nicht gedeien. Man trampelt nicht auf den Samen herum, giesst sie nicht mit Salzwasser und schneidet sie nicht ab. Schließlich erhält man eine Plantage mit gesunden Bäumen und vielen Früchten. Der erfolg kommt von dem Potential der Samen und der guten Pflege gemeinsam.
-7. Die Sekretärin die die Anrufe annimt ist die "Direktorin des ersten Eindrucks" und hat somit eine wichtige Rolle im Unternehmen, da alle möglichen Kunden zuerst mit ihr sprechen.
-8. Essensgutscheine damit Mitarbeiter unsere Geschäftspartner in Restaurants einladen können.
-9. Jeder Mitarbeiter darf während der Abreitszeit lesen wenn er Zeit hat. Bücher jeder Art, die ihn persönlich oder sein Projekt voranbringen.
-10. Kosten + Aufwand < Output zB. bei Büchern. 20€ pro Jahr für die Bücher aber die Mitarbeiter arbeiten durch den Inhalt effektiver, haben bessere Ideen, treffen bessere Entscheidungen etc. also ist der Output größer.
-11. 95% haben in ihren Big 5 eine Weltreise. Warum nicht ein Reisebüro in der Firma einrichten und zB. gute Leistungen mit Gutscheinen dafür belohnen?
-12. MBB (Mach mich Besser) Sitzungen wenn eine neue Idee großes Potential verpspricht. 20 min vorstellen der Idee, danach Verbesserungsvorschläge. Das Ziel ist, die Idee zu verbessern nicht sie niedermachen. Wenn Mängel benannt werden, dann nur mit Verbesserungsvorschlägen. Es werden per Zufall 20 Personen ausgewählt. Es gibt insgesmt 4 Sitzungen wenn die Idee weiter verfolgt wird. Auch mit Kunden und Lieferanten. Die hohen Tiere kommen auch, weil ihre eigene Ideen auch so behandelt werden oder sie vielleicht schon ein Unternehmen durch die MBB Sitzungen gegründet haben.
-13. Anstatt, dass Leute die selbst Firmen führen wollen dann die Firma verlassen, können sie eine eigene Firma in der Firma gründen. Die Firma unterstützt sie dabei und hat dann auch Anteile an der neuen Firma.
-14. Für jede Tätigkeit, die ein Mensch überhaupt nicht gerne macht, gibt es jemanden, der sie liebt.
-15. Geld allein ist nicht motivation genug für einen Angestellten um produktiv und gut zu arbeiten.
-16. Eine einzige unmotivierte Person in einem guten Team wird das ganze Team runterziehen und dafür sorgen, dass das Team nicht mehr produktiv ist.
-17. Viele Führungspersönlichkeiten lieben es Wissen zu horten um Macht zu haben. Dann sind sie die PErson an die sich alle Wenden müssen, wenn sie Fragen haben. Das ist aber nicht gut für das Unternehmen. Wissen sollte geteilt werden, damit das Unternehmen wachsen
-18. Lebe dein Leben so, dass du morgens aufwachen könntest und dir denkst: "Wenn ich heute sterben würde, dann wäre es okay denn ich habe mein Leben so gelebt, wie ich es wollte."
-19. Es ist falsch zu denken, das Gewinne und Zufriedenheute im Unternehmen antiproportional zueinander stehen. Es ist möglich beides zu haben.
-20. Die Fluktaion im Unternehmen gering zu halten lohnt sich langfristig, weil die Mitarbeiter produktiver und motivierter sind, sowie bessere Arbeit leisten können wegen ihrer Erfahrung.
-
+1. **"Is today a good museum day?"**: Imagine a museum of your life. If you spend 80% of your time in a job you hate, 80% of the exhibits will reflect that. Design your life so that you are happy with your museum at the end.
+2. **Life is a journey**: Some people travel with you for a long time, others only for short distances.
+3. **Align work with your ZTE (Purpose for Existence)**: Start your own company and align its purpose with your own.
+4. **Repetition builds belief**: If you keep repeating the same words, your mind will eventually believe them.
+5. **Managers should help employees achieve their Big Five or ZTE**: Otherwise, they are just trading employees' lives for money.
+6. **Good leadership is like a papaya plantation**: Plant seeds in quality soil, avoid trampling or using saltwater, and nurture them. Success comes from the potential of the seeds and good care.
+7. **First impressions matter**: The receptionist is the "Director of First Impressions" and plays a crucial role in the company.
+8. **Meal vouchers**: Allow employees to invite business partners to restaurants.
+9. **Reading during work**: Employees can read books that help them personally or advance their projects.
+10. **Cost vs. Output**: Investing in books (20€ per year) can lead to more effective work, better ideas, and improved decisions, making the output greater.
+11. **Travel incentives**: Many have a world trip in their Big Five. Create a travel agency within the company and reward good performance with travel vouchers.
+12. **"Make Me Better" (MBB) sessions**: Present new ideas with potential for 20 minutes, followed by improvement suggestions. The goal is to enhance, not criticize. Randomly select 20 participants and hold four sessions if the idea progresses, including customers and suppliers. Senior leaders also participate.
+13. **Intrapreneurship**: Employees who want to start their own business can do so within the company, with company support and shared ownership.
+14. **Passion alignment**: For every task someone dislikes, there’s someone who loves it.
+15. **Money alone isn’t enough motivation**: Employees need more than financial incentives to be productive and engaged.
+16. **Team dynamics**: One unmotivated person can drag down the whole team’s productivity.
+17. **Knowledge sharing**: Hoarding knowledge for power is detrimental. Sharing knowledge helps the company grow.
+18. **Living life fully**: Live so that you can wake up and think, "If I die today, it’s okay because I lived the life I wanted."
+19. **Profit and happiness can coexist**: It’s a misconception that profits and employee satisfaction are inversely related.
+20. **Low turnover benefits**: Reducing turnover leads to more productive, motivated, and experienced employees.
 
 ## Ranking 1-10
-- Easy to Hard: 3 
+- Easy to Hard: 3
 - Learning: 10
 - Would recommend: 10
-
-## Where
-Real Book

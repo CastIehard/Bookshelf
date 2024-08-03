@@ -23,5 +23,3 @@ YYYY
 - Easy to Hard: 
 - Learning: 
 - Would recommend: 
-
-## Where

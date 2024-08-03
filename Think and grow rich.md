@@ -33,6 +33,3 @@ Success, Money, Rich, Think, Mindset
 - Easy to Hard: 3
 - Learning: 7
 - Would recommend: 9
-
-## Where
-Nowhere. Sold the book :-/

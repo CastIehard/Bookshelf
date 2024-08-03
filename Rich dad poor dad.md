@@ -1,4 +1,4 @@
-# Rich dad poor dad
+# Rich Dad Poor Dad
 
 ## Author
 Robert Kiyosaki
@@ -13,51 +13,48 @@ Robert Kiyosaki
 Money, Investing
 
 ## Summary
-Klassiker über Geld und Finanzen mit vielen Beispielen aus dem echten Leben. Der Autor hat zwei Väter, einen reichen und einen armen. Der reiche Vater lehrt ihn über Geld und Investitionen, während der arme Vater ihm beibringt, hart zu arbeiten und Geld zu sparen. Der Autor lernt, dass der reiche Vater recht hat und der arme Vater unrecht. Das Buch handelt von den Lektionen, die er vom reichen Vater gelernt hat.
+A classic on money and finance with many real-life examples. The author has two fathers, a rich one and a poor one. The rich father teaches him about money and investments, while the poor father teaches him to work hard and save money. The author learns that the rich father is right and the poor father is wrong. The book is about the lessons he learned from the rich father.
 
 ## Keywords
 Rich, Poor, Money, Investing, Finance, Money Management
 
 ## Key Takeaways
-1. Es ist Ratsam zuerst seine Zeit und dann sein Geld zu investieren.
-2. Es ist ein Unterschied, ob man Arm oder Pleite ist. Pleite is man vorübergehend, Arm bleibt man sein ganzes Leben.
-3. Die Immobilie, in der man wohnt ist kein Vermögenswert. Sie bringen keine Einnahmen und die Wirtschaftskriese 2008 zeigt, dass sie auch an Wert verlieren können.
-4. Angst und Verlagen sind die Hauptgründe, warum Menschen arm sind. Sie haben Angst etwas zu wagen und wollen lieber sicher einen 40h Job haben. Ihr Verlangen treibt sie dazu, sich Dinge zu kaufen, die sie sich nicht leisten können, weshalb sie wiederrum mehr arbeite müssen.
-5. Geld ist und bleibt etwas erdachtes, das nur funktioniert, weil wir alle daran glauben.
-6. Finanzielle Intelligenz ist die Fähigkeit, Geld zu verdienen, zu sparen, zu investieren und zu spenden. Man benötigt sie in allen Bereichen des Lebens. Diese Finazielle Intelligenz ist das Fundament des Reichtums, wenn man nicht erst lernt, ist es wie wenn man den Burj Khalifa ohne Fundament auf Erde bauen würde.
-7. Buchhaltung ist die Sprache der Geschäftslebens und muss beherscht werden.
-8. Die Reichen haben ihr Geld nicht auf dem Konto, sondern in Vermögenswerten. Sie haben Aktien, Immobilien, Unternehmen, etc.
-9. Man gibt immer so viel Geld aus, wie man hat. Steigt das Einkommen wird der Lebensstil angepasst und man ist wieder am Anfang.
-10. Wer ist in deinem Team? Es ist wichtig, sich mit Menschen zu umgeben, die mehr wissen als man selbst. Gute Berater, Anwälte, Buchhalter, etc. sind wichtig. Wenn man selbst viel Geld macht und diese Menschen dabei helfen mehr zu machen dann muss man sie auch gut bezahlen. Am Ende lohnt es sich.
-11. Es ist essentiell den Unterschied zwischen Verbindlichkeiten und Vermögenswerten zu kennen. Verbindlichkeiten sind Dinge, die Geld kosten, Vermögenswerte sind Dinge, die Geld einbringen.
-12. Reichtum lässt sich wie folgt messen: Wenn ich heute aufhöre zu arbeiten, wie lange kann ich meinen Lebensstil beibehalten?
-13. Man benötigt etwas Geld beiseite um bei der richtigen Gelegenheit die Möglichkeit zu haben, zu investieren.
-14. 9/10 Unternehmen scheitern in den ersten 5 Jahren. Von denen die das Überleben scheitern weitere 9/10
-15. Reiche benutzten "aktives Steuermanagement" und haben ca. 1% Steuern.
-16. Es ist die Kenntnis der Reichen über die Rechtsformen der Unternehmen, die ihnen hilft, Steuern zu sparen.
-17. Alte Ideen sind die größte Verbindlichkeit, diese Art Geld zu verdienen oder zu investieren war vielleicht vor 20 Jahren gut, heute ist es das nicht mehr.
-18. Denke daran Spaß zu haben. Das Leben und vorallem Geld ist ein großes Spiel. Manchmal gewinnt man, ein andernmal verliert man. Die meisten Menschen gewinnen nie, weil sie garnicht erst mitspielen und sie Angst haben zu verlieren.
-19. In der realen Welt sind es häufig nicht die intelligentesten die am weitesten kommen, sondern die mutigsten.
-20. Job bedeutet "Just Over Broke". Es ist ein Tausch von Zeit gegen Geld.
-21. Arbeitnehmer arbeiten gerade so viel, dass sie nicht gefeuert werden und Arbeitgeber zahlen gerade so viel, dass die Arbeitnehmer nicht kündigen.
-22. Kannst du besser Burger machen als MC Donalds? Warum verdient der CEO von MC Donalds dann mehr als du? Es kommt nicht nur auf das Produkt an, sondern auch auf das Geschäftsmodell.
-23. Die wichtigsten Fähigkeiten sind Vertrieb und Marketing.
-24. Es gibt kein reichen Menschen die noch nie Geld verloren haben, aber viel Arme, die noch nie mehr als 10 ct bei einer Investition verloren haben.
-25. "Alle Menschen wollen in den Himmel, aber niemand will sterben." Jeder will reich sein, aber niemand will das Risiko eingehen, das es braucht.
-26. Keine Zeit haben ist auch eine art der Faulheit. Hat man zB. keine Zeit sich um seine Gesundheit oder sein Geld zu kümmern, dann ist das Faulheit.
-27. Nicht "Ich kann mir das nicht leisten" sondern "Wie kann ich mir das leisten?".
-28. Die Welt schubst einen nicht erum weil alle Tyrannen sind, sondern weil es dem Menschen an Kontrolle und Disziplin fehlt.
-29. Warum zahlt man einer Bedienung Trinkgeld, aber nicht dem Makler, der einem ein Haus verkauft? Die meisten Menschen beschweren sich über die Provision beim Makler, aber nicht über das Trinkgeld.
-30. Mann in einer kalten Nacht zu seinem Ofen: "Wenn du mich wärmen würdest, würde ich dich mit Holz füttern." Manchmal benötigt es den ersten Schritt, um das zu bekommen was man will.
-31. Wenn ich nach neuen Anlageideen suche, gehe ich in den Buchladen und suche nach neuen Ausgefallenen Ideen.
-32. Finde einen Menschen der schonmal gemacht hat was man selbst vorhat und lerne von ihm.
-33. Mache einfach Angebote. Es kann sein, dass jemand ja sagt.
-34. Man macht den Profit beim Kauf, nicht bei Verkauf. Der Profit entsteht wenn ich eine Immobilir die 100k wert ist für 80k kaufe
+1. It’s wise to invest your time first, then your money.
+2. There’s a difference between being poor and being broke. Being broke is temporary; being poor is permanent.
+3. The house you live in is not an asset. It doesn’t generate income and can lose value, as seen in the 2008 financial crisis.
+4. Fear and desire are the main reasons people remain poor. They fear taking risks and prefer a secure 40-hour job. Their desires lead them to buy things they can’t afford, causing them to work more.
+5. Money is an idea that only works because we all believe in it.
+6. Financial intelligence is the ability to earn, save, invest, and donate money. It’s essential in all life areas and is the foundation of wealth. Without it, it’s like building the Burj Khalifa without a foundation.
+7. Accounting is the language of business and must be mastered.
+8. The rich don’t keep their money in savings accounts; they invest in assets like stocks, real estate, and businesses.
+9. People spend as much money as they have. As income increases, so does lifestyle, leading back to square one.
+10. Who is on your team? It’s crucial to surround yourself with people who know more than you do. Good advisors, lawyers, and accountants are essential. If you make a lot of money, these people help you make more, so pay them well. It pays off.
+11. It’s essential to know the difference between liabilities and assets. Liabilities cost money; assets generate money.
+12. Wealth can be measured by how long you can maintain your lifestyle if you stop working today.
+13. You need some money set aside to invest when the right opportunity arises.
+14. 9 out of 10 businesses fail within the first five years. Of those that survive, 9 out of 10 fail afterward.
+15. The rich use “active tax management” and pay around 1% in taxes.
+16. The rich save on taxes by knowing business structures.
+17. Old ideas are the biggest liability. What worked 20 years ago might not work today.
+18. Remember to have fun. Life and money are a big game. Sometimes you win, sometimes you lose. Most people never win because they never play out of fear of losing.
+19. In the real world, it’s often the bold who succeed, not the smartest.
+20. JOB stands for “Just Over Broke.” It’s trading time for money.
+21. Employees work just hard enough not to get fired, and employers pay just enough to keep employees from quitting.
+22. Can you make better burgers than McDonald’s? Then why does McDonald’s CEO earn more? It’s about the business model, not the product.
+23. The most important skills are sales and marketing.
+24. No wealthy person has never lost money, but many poor people have never lost more than a dime on an investment.
+25. “Everyone wants to go to heaven, but no one wants to die.” Everyone wants to be rich, but no one wants to take the risk.
+26. Having no time is a form of laziness. If you don’t take care of your health or money because you’re too busy, it’s laziness.
+27. Instead of saying, “I can’t afford it,” ask, “How can I afford it?”
+28. The world doesn’t push you around because everyone is a bully but because you lack control and discipline.
+29. Why tip a waiter but not a real estate agent who sells you a house? People often complain about the agent’s commission but not the tip.
+30. Man to his stove on a cold night: “If you give me heat, I’ll give you wood.” Sometimes you need to take the first step to get what you want.
+31. When looking for new investment ideas, visit bookstores for fresh concepts.
+32. Find someone who has done what you plan to do and learn from them.
+33. Just make offers. Someone might say yes.
+34. Profit is made at the purchase, not the sale. It’s made when you buy a $100k property for $80k.
 
 ## Ranking 1-10
 - Easy to Hard: 8
 - Learning: 7
 - Would recommend: 8
-
-## Where
-Real Book

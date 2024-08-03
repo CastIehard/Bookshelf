@@ -38,6 +38,3 @@ Responsibility, Truth, Order, Chaos, Discipline, Meaning, Psychology, Philosophy
 - Easy to Hard: 9
 - Learning: 4
 - Would recommend: 5
-
-## Where
-Real Book
